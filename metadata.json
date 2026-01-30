@@ -1,0 +1,5 @@
+{
+  "name": "Daily Time Tracking",
+  "description": "A minimal productivity app for 24-hour time blocking with automatic scheduling and category-based visualization.",
+  "requestFramePermissions": []
+}
